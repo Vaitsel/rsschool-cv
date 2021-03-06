@@ -14,6 +14,7 @@
 * JavaScript
 * Git & GitHub
 * Gulp
+* Bootstrap
 
 ## Example code 
 
