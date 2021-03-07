@@ -1,1 +1,1 @@
-https://Vaitsel.github.io/rsschool-cv/cv
+https://Vaitsel.github.io/rsschool-cv
